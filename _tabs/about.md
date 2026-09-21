@@ -67,6 +67,7 @@ As of April 29th i have succesfully finished my education, looking out towards n
 | CONNECT.FRL                  | Networking Event | 2026-03-25       | <a href="https://connect.frl/">Website</a>  |
 | HACK.FRL                     | Cyber Exercise   | 2026-03-03       | <a href="https://www.linkedin.com/posts/jurrevdv_defensie-hackfrl-cybersecurity-activity-7449912388008501249-58QU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACizrvcBC0u5SxX76AgY36bwMHGns20OFIE">Personal LinkedIN Post</a>  |
 | BSides Groningen             | Networking and<br>Knowledge Sharing Event | 2026-03-25       | <a href="https://bsidesgrunn.org/">Website</a>  |
+| EHGN National Hackers Cup    | Capture The Flag | 2026-09-19       | <a href="https://nhc.ehgn.nl/">Website</a>  |
 
 Outside the above events i also attended multiple (guest)lectures on cybersecurity at varying locations.
 
