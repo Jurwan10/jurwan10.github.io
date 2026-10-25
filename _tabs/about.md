@@ -33,6 +33,7 @@ As of April 29th i have succesfully finished my education, looking out towards n
   <div style="flex: 1; padding: 10px;">
     <h2>Certifications</h2>
     <a href="https://certs.ine.com/7fa67830-2003-4479-82f9-8bd1cdd0344c#acc.Cw3AVUok"><img src="/assets/images/ejpt_badge.png" alt="ejpt-badge"></a><br>
+    <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist"><img src="/assets/images/cpts-logo-v2.png" alt="CPTS-badge" width="130"></a><br>
     <a href="https://www.credly.com/users/jurre-van-der-veen">Completed Cisco Courses.</a>
   </div>
 </div>
